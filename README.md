@@ -1,14 +1,10 @@
-### Webshell Setup
+# Webshell
 
-- python -m venv myvenv
-- source myvenv/bin/activate
-- pip install fastapi uvicorn python-socketio
-- uvicorn app:app --reload
+This project is documented on DeepWiki.
 
-- <a href="https://github.com/anpa6841/webshell/blob/master/webshell.mov">Webshell Demo</a>
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/anpa6841/vSwitch)
 
-### Webshell Demo
+### Demo
 
-<video width="320" height="240">
-  <source src="https://github.com/anpa6841/webshell/blob/master/webshell.mov" type="video/mov">
-</video>
+https://github.com/user-attachments/assets/fee02c58-d13b-4a7c-bade-aef982fa35cf
+
